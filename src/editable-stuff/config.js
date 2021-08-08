@@ -53,7 +53,7 @@ const about = {
 		  My area of expertise is developing machine learning applications with Python.\
 		  I'm also familiar with front end and back end web development. In my free time, I love to make music, play Dota 2, and work on ML projects with my friends.",
   resume:
-    "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    require("../editable-stuff/resume.pdf"),
 };
 
 
