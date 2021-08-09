@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Caden",
   middleName: "",
   lastName: "Westmoreland",
-  message: " Passionate Engineer, Dedicated Friend",
+  message: "Engineer | Communicator | Thinker | Problem Solver | Friend ",
   icons: [
     {
       image: "fa-github",
@@ -31,7 +31,7 @@ const about = {
   show: true,
   heading: "About Me",
   imageLink: require("../editable-stuff/linkedin_pic.jpg"),
-  imageSize: 375,
+  imageSize: 300,
   message:
     "My name is Caden Westmoreland. I'm an upcoming graduate from Texas State University with a B.S. Computer Science with a minor in Applied Mathematics.\
 		 I originally began my educational journey as an Aerospace Engineering student at The University of Texas at Austin.\
