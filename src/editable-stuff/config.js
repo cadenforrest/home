@@ -50,7 +50,7 @@ const about = {
 		 I originally began my educational journey as an Aerospace Engineering student at The University of Texas at Austin.\
 		 During my first two engineering internships, I was assigned to develop complex software solutions for my respective teams. \
 		 From there, I fell in love with software development and transferred to Texas State to pursue a degree in Computer Science.\
-		  My area of expertise is developing machine learning applications with Python.\
+		  My area of interest is developing machine learning applications with Python.\
 		  I'm also familiar with front end and back end web development. In my free time, I love to make music, play Dota 2, and work on ML projects with my friends.",
   resume:
     require("../editable-stuff/resume.pdf"),
