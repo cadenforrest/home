@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Caden",
   middleName: "",
   lastName: "Westmoreland",
-  message: " Dedicated Machine Learning Engineer ",
+  message: " Passionate Engineer, Dedicated Friend",
   icons: [
     {
       image: "fa-github",
@@ -26,19 +26,6 @@ const mainBody = {
   ],
 };
 
-// ABOUT SECTION
-// If you want the About Section to show a profile picture you can fill the profilePictureLink either with:
-//a) your Instagram username
-//      i.e:profilePictureLink:"johnDoe123",
-//b) a link to an hosted image
-//      i.e:profilePictureLink:"www.picturesonline.com/johnDoeFancyAvatar.jpg",
-//c) image in "editable-stuff" directory and use require("") to import here,
-//      i.e: profilePictureLink: require("../editable-stuff/hashirshoaeb.png"),
-//d) If you do not want any picture to be displayed, just leave it empty :)
-//      i.e: profilePictureLink: "",
-// For Resume either provide link to your resume or import from "editable-stuff" directory
-//     i.e resume: require("../editable-stuff/resume.pdf"),
-//         resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
 
 const about = {
   show: true,
@@ -119,7 +106,7 @@ const skills = {
 // GET IN TOUCH SECTION
 const getInTouch = {
   show: true,
-  heading: "Get In Touch",
+  heading: "Contact Me",
   message:
     "I'm on the hunt for any and all Software Engineering opportunities beginning in December 2021. \
 		If you'd like to get in touch, please don't hesitate to reach me at my email",
@@ -127,18 +114,18 @@ const getInTouch = {
 };
 
 const experiences = {
-  show: false,
-  heading: "Experiences",
+  show: true,
+  heading: "Experience",
   data: [
     {
       role: "Manufacturing Engineering Intern", // Here Add Company Name
-      companylogo: require("../assets/img/dell.png"),
-      date: "June 2018 – Present",
+      companylogo: require("../assets/img/airbornlogo.png"),
+      date: "May 2019 – August 2019",
     },
     {
-      role: "Front-End Developer",
-      companylogo: require("../assets/img/boeing.png"),
-      date: "May 2017 – May 2018",
+      role: "Undergraduate Research Assistant",
+      companylogo: require("../assets/img/cheds-logo-transparent.png"),
+      date: "May 2017 – October 2017",
     },
   ],
 };
