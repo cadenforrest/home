@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Caden",
   middleName: "",
   lastName: "Westmoreland",
-  message: "Engineer | Communicator | Thinker | Problem Solver | Friend ",
+  message: "Machine Learning | Web Development | Applied Mathematics | Engineering ",
   icons: [
     {
       image: "fa-github",
