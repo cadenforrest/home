@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.f5497eb8.chunk.css",
-    "main.js": "/home/static/js/main.20c4f2cb.chunk.js",
-    "main.js.map": "/home/static/js/main.20c4f2cb.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.c71ad327.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.c71ad327.js.map",
-    "static/js/2.1ed5f9ff.chunk.js": "/home/static/js/2.1ed5f9ff.chunk.js",
-    "static/js/2.1ed5f9ff.chunk.js.map": "/home/static/js/2.1ed5f9ff.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.877e828b97a95f2d2de81d4c38ebc875.js": "/home/precache-manifest.877e828b97a95f2d2de81d4c38ebc875.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/main.f5497eb8.chunk.css.map": "/home/static/css/main.f5497eb8.chunk.css.map",
-    "static/js/2.1ed5f9ff.chunk.js.LICENSE.txt": "/home/static/js/2.1ed5f9ff.chunk.js.LICENSE.txt",
-    "static/media/cheds-logo-transparent.png": "/home/static/media/cheds-logo-transparent.c2ca2eb3.png",
-    "static/media/linkedin_pic.jpg": "/home/static/media/linkedin_pic.f287e699.jpg",
-    "static/media/resume.pdf": "/home/static/media/resume.4f15b714.pdf",
-    "static/media/sockclub.png": "/home/static/media/sockclub.9f84c5a9.png"
+    "main.css": "/static/css/main.f5497eb8.chunk.css",
+    "main.js": "/static/js/main.ff186bba.chunk.js",
+    "main.js.map": "/static/js/main.ff186bba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.1ed5f9ff.chunk.js": "/static/js/2.1ed5f9ff.chunk.js",
+    "static/js/2.1ed5f9ff.chunk.js.map": "/static/js/2.1ed5f9ff.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9a9e361599d055e2bbf43ca0e90b441f.js": "/precache-manifest.9a9e361599d055e2bbf43ca0e90b441f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f5497eb8.chunk.css.map": "/static/css/main.f5497eb8.chunk.css.map",
+    "static/js/2.1ed5f9ff.chunk.js.LICENSE.txt": "/static/js/2.1ed5f9ff.chunk.js.LICENSE.txt",
+    "static/media/cheds-logo-transparent.png": "/static/media/cheds-logo-transparent.c2ca2eb3.png",
+    "static/media/linkedin_pic.jpg": "/static/media/linkedin_pic.f287e699.jpg",
+    "static/media/resume.pdf": "/static/media/resume.4f15b714.pdf",
+    "static/media/sockclub.png": "/static/media/sockclub.9f84c5a9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c71ad327.js",
+    "static/js/runtime-main.19ccc7f6.js",
     "static/js/2.1ed5f9ff.chunk.js",
     "static/css/main.f5497eb8.chunk.css",
-    "static/js/main.20c4f2cb.chunk.js"
+    "static/js/main.ff186bba.chunk.js"
   ]
 }
