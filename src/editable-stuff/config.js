@@ -9,19 +9,15 @@ const mainBody = {
   firstName: "Caden",
   middleName: "",
   lastName: "Westmoreland",
-  message: "Machine Learning | Web Development | Applied Mathematics | Engineering ",
+  message: "Ruby on Rails | Python + Django",
   icons: [
     {
       image: "fa-github",
       url: "https://github.com/cadenforrest",
     },
     {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/caden.westmoreland/",
-    },
-    {
       image: "fa-instagram",
-      url: "https://www.instagram.com/cadenforrest/",
+      url: "https://www.instagram.com/caden_forrest/",
     },
   ],
 };
@@ -33,12 +29,12 @@ const about = {
   imageLink: require("../editable-stuff/linkedin_pic.jpg"),
   imageSize: 300,
   message:
-    "My name is Caden Westmoreland. I'm an upcoming graduate from Texas State University with a B.S. Computer Science with a minor in Applied Mathematics.\
+    "My name is Caden Westmoreland. I'm a software developer working in Austin, Texas. \
 		 I originally began my educational journey as an Aerospace Engineering student at The University of Texas at Austin.\
 		 During my first two engineering internships, I was assigned to develop complex software solutions for my respective teams. \
-		 From there, I fell in love with software development and transferred to Texas State to pursue a degree in Computer Science.\
-		  My area of interest is developing machine learning applications with Python.\
-		  I'm also familiar with front end and back end web development. In my free time, I love to make music, play Dota 2, and work on ML projects with my friends.",
+		 From there, I fell in love with software development and transferred to Texas State and graduated with a Bachelor's of Computer Science \
+     in 2016. Since then, I've spent my career thus far developing extendable and maintainable server-side applications in Ruby on Rails and Python,  \
+    and would love to continue learning and improving my skills in those areas.",
   resume:
     require("../editable-stuff/resume.pdf"),
 };
@@ -81,17 +77,20 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
+    { name: "Django", value: 90 }, 
+    { name: "Celery", value: 75 },
+    { name: "Ruby on Rails", value: 90},
+    { name: "PostgreSQL", value: 75 },
+    { name: "JavaScript", value: 75},
+    { name: "React", value: 75 },
     { name: "C/C++", value: 90 },
-    { name: "JavaScript", value: 50},
-    { name: "React", value: 50 },
+    { name: "Data Structures", value: 85 },
     { name: "HTML/CSS", value: 50 },
 		{ name: "Applied Mathematics", value: 80},
 		{ name: "Agile Development", value: 75}, 
-		{ name: "Git", value: 95}
   ],
   softSkills: [
+		{ name: "Communication", value: 100},
 		{ name: "Problem Solver", value: 95 },
 		{ name: "Independent Learner", value: 90},
 		{ name: "Flexibility", value: 95},
@@ -99,7 +98,6 @@ const skills = {
     { name: "Team-Player", value: 80 },
     { name: "Organization", value: 20 },
     { name: "Creativity", value: 90 },
-		{ name: "Communication", value: 100}
   ],
 };
 
@@ -117,6 +115,11 @@ const experiences = {
   show: true,
   heading: "Experience",
   data: [
+    {
+      role: "Software Engineer",
+      companylogo: require("../assets/img/sockclub.png"),
+      date: "September 2020 - Present",
+    },
     {
       role: "Manufacturing Engineering Intern", // Here Add Company Name
       companylogo: require("../assets/img/airbornlogo.png"),
