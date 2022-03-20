@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Caden",
   middleName: "",
   lastName: "Westmoreland",
-  message: "Ruby on Rails | Python + Django",
+  message: "Ruby on Rails | Python + Django | Javascript + React",
   icons: [
     {
       image: "fa-github",
@@ -33,7 +33,7 @@ const about = {
 		 I originally began my educational journey as an Aerospace Engineering student at The University of Texas at Austin.\
 		 During my first two engineering internships, I was assigned to develop complex software solutions for my respective teams. \
 		 From there, I fell in love with software development and transferred to Texas State and graduated with a Bachelor's of Computer Science \
-     in 2016. Since then, I've spent my career thus far developing extendable and maintainable server-side applications in Ruby on Rails and Python,  \
+     in 2021. Since then, I've spent my career thus far developing extendable and maintainable server-side applications in Ruby on Rails and Python,  \
     and would love to continue learning and improving my skills in those areas.",
   resume:
     require("../editable-stuff/resume.pdf"),
@@ -106,8 +106,7 @@ const getInTouch = {
   show: true,
   heading: "Contact Me",
   message:
-    "I'm on the hunt for any and all Software Engineering opportunities beginning in December 2021. \
-		If you'd like to get in touch, please don't hesitate to reach me at my email",
+		"If you'd like to get in touch, please don't hesitate to reach me at my email",
   email: "cadenforrest@gmail.com",
 };
 
@@ -118,7 +117,7 @@ const experiences = {
     {
       role: "Software Engineer",
       companylogo: require("../assets/img/sockclub.png"),
-      date: "September 2020 - Present",
+      date: "September 2021 - Present",
     },
     {
       role: "Manufacturing Engineering Intern", // Here Add Company Name
